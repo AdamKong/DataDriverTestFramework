@@ -1,0 +1,27 @@
+2021-11-15 19:58:52,210 INFO  [log]  ====================================================================== 
+2021-11-15 19:58:52,210 INFO  [log]  *************     登录163邮箱 Starting     ************* 
+2021-11-15 19:58:52,210 INFO  [log]  visit page: https://mail.163.com/ 
+2021-11-15 19:58:57,461 INFO  [log]  use LoginAction.execute to login 
+2021-11-15 19:58:57,462 INFO  [log]  maximize the browser 
+2021-11-15 20:09:08,303 INFO  [log]  ====================================================================== 
+2021-11-15 20:09:08,303 INFO  [log]  *************     login 163 email box Starting     ************* 
+2021-11-15 20:09:08,303 INFO  [log]  visit page: https://mail.163.com/ 
+2021-11-15 20:09:11,305 INFO  [log]  use LoginAction.execute to login 
+2021-11-15 20:09:11,307 INFO  [log]  maximize the browser 
+2021-11-15 20:09:15,467 INFO  [log]  new a login object 
+2021-11-15 20:09:15,467 INFO  [log]  click the login button 
+2021-11-15 20:09:15,467 INFO  [log]  locator type：id	 locator expression：lbNormal 
+2021-11-15 20:09:15,662 INFO  [log]  close browser! 
+2021-11-15 20:09:16,412 INFO  [log]  *************     登录163邮箱 ending     ************* 
+2021-11-15 20:09:16,412 INFO  [log]  ====================================================================== 
+2021-11-15 20:29:58,436 INFO  [log]  ====================================================================== 
+2021-11-15 20:29:58,436 INFO  [log]  *************     login 163 email box Starting     ************* 
+2021-11-15 20:29:58,436 INFO  [log]  visit page: https://mail.163.com/ 
+2021-11-15 20:30:03,563 INFO  [log]  use LoginAction.execute to login 
+2021-11-15 20:30:03,564 INFO  [log]  maximize the browser 
+2021-11-15 20:30:07,736 INFO  [log]  new a login object 
+2021-11-15 20:30:07,736 INFO  [log]  click the 163 login option area 
+2021-11-15 20:30:07,736 INFO  [log]  locator type：cssselector	 locator expression：.selector-163 
+2021-11-15 20:30:07,783 INFO  [log]  close browser! 
+2021-11-15 20:30:08,526 INFO  [log]  *************     登录163邮箱 ending     ************* 
+2021-11-15 20:30:08,526 INFO  [log]  ====================================================================== 
